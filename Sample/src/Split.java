@@ -7,7 +7,7 @@ public class Split {
 	{
 		String number="5465982136";
 		String p1=number.substring(6,10);
-		
+		//New change
 		
 		System.out.println(p1);
 	}
